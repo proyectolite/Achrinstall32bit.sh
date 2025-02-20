@@ -1,1 +1,0 @@
-# Achrinstall32bit.sh
